@@ -1,4 +1,4 @@
-# [Nuxt Black Dashboard PRO](https://demos.creative-tim.com/nuxt-black-dashboard-pro) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard-pro-react%2F%23%2Fadmin%2Fdashboard&text=Black%20Dashboard%20PRO%20React%20-%20Premium%20Bootstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%2Fblack-dashboard-pro-react%2F&via=creativetim&hashtags=react%2Cbootstrap%2Creactstrap%2Ccreativetim%2Ccreativetimofficial)
+# [Nuxt Black Dashboard PRO](https://demos.creative-tim.com/nuxt-black-dashboard-pro) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fnuxt-black-dashboard-pro%2F%23%2Fadmin%2Fdashboard&text=Nuxt%20Black%20Dashboard%20PRO%20-%20Premium%20Nuxt%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%2Fnuxt-black-dashboard-pro%2F&via=creativetim&hashtags=vuejs%2Cbootstrap%2Cnuxt%2Ccreativetim%2Ccreativetimofficial)
 
 
 
@@ -11,7 +11,7 @@
 
 We made it our priority to not add things that you don't need, so the Nuxt Black Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used. Inside the archive, you will also find multiple example pages to get you started or provide inspiration.
 
-Nuxt Black Dashboard PRO](https://demos.creative-tim.com/nuxt-black-dashboard-pro) is the extended version of Black Dashboard PRO (https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/). Based on feedback from people that downloaded and used it, we have added needed components, and we have created multiple examples pages. We are curious to see how you want to use it and also improve it, so let us know any feedback you have.
+[Nuxt Black Dashboard PRO](https://demos.creative-tim.com/nuxt-black-dashboard-pro) is the extended version of [Black Dashboard PRO](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/). Based on feedback from people that downloaded and used it, we have added needed components, and we have created multiple examples pages. We are curious to see how you want to use it and also improve it, so let us know any feedback you have.
 
 
 Special thanks go for the owners of these plugins:
