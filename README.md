@@ -7,28 +7,20 @@
 ![Product Gif](./github-assets/nuxt-black-dashboard-pro.gif)
 
 
-Black Dashboard PRO React is a beautiful [Bootstrap 4](http://getbootstrap.com/), [Reacstrap](https://reactstrap.github.io/) and [React](https://reactjs.org/) ([create-react-app](https://github.com/facebook/create-react-app)) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
-Black Dashboard PRO React comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+[Nuxt Black Dashboard PRO](https://demos.creative-tim.com/nuxt-black-dashboard-pro) is a beautiful Bootstrap 4 Admin Dashboard that comes in 2 versions: Dark and Light Mode. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
-Black Dashboard PRO React features over 160 individual components, giving you the freedom of choosing and combining. This means that there are thousands of possible combinations. All components can take variations in color, that you can easily modify using SASS files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
-We thought about everything, so this dashboard comes with 2 versions, Dark Mode and Light Mode.
+We made it our priority to not add things that you don't need, so the Nuxt Black Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used. Inside the archive, you will also find multiple example pages to get you started or provide inspiration.
+
+Nuxt Black Dashboard PRO](https://demos.creative-tim.com/nuxt-black-dashboard-pro) is the extended version of Black Dashboard PRO (https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/). Based on feedback from people that downloaded and used it, we have added needed components, and we have created multiple examples pages. We are curious to see how you want to use it and also improve it, so let us know any feedback you have.
+
 
 Special thanks go for the owners of these plugins:
 - [chartjs](https://www.chartjs.org/)
-- [jvectormap](http://jvectormap.com/)
 - [nouislider](https://refreshless.com/nouislider/)
 - [nucleoapp](https://nucleoapp.com/?ref=1712)
 - [perfect-scrollbar](https://www.npmjs.com/package/perfect-scrollbar)
-- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar)
-- [react-bootstrap-sweetalert](https://github.com/djorg83/react-bootstrap-sweetalert)
-- [react-bootstrap-switch](https://github.com/Julusian/react-bootstrap-switch)
-- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2)
-- [react-datetime](https://github.com/YouCanBookMe/react-datetime)
-- [react-google-maps](https://github.com/tomchentw/react-google-maps)
-- [react-jvectormap](https://www.npmjs.com/package/react-jvectormap)
-- [react-select](https://github.com/JedWatson/react-select)
-- [react-table](https://react-table.js.org/#/story/readme)
-- [react-tagsinput](https://github.com/olahol/react-tagsinput)
+- [element-ui](https://element.eleme.io)
+- [nuxt.js](https://nuxtjs.org)
 
 We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
@@ -55,9 +47,9 @@ We are very excited to share this dashboard with you and we look forward to hear
 [<img src="./github-assets/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/black-dashboard-pro-react)[<img src="./github-assets/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-black-dashboard-pro)
 
 
-| HTML | React | Vue |
+| HTML | React | Vue | Nuxt |
 | --- | --- | --- |
-| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/138/original/opt_bdp_thumbnail.jpg)](https://www.creative-tim.com/product/black-dashboard-pro-react) | [![Vue Black Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/135/original/opt_bdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-black-dashboard) |
+| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/138/original/opt_bdp_thumbnail.jpg)](https://www.creative-tim.com/product/black-dashboard-pro-react) | [![Vue Black Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/135/original/opt_bdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-black-dashboard-pro) | [![Nuxt Black Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/135/original/opt_bdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-black-dashboard=[rp) |
 
 ## Demo
 
@@ -76,7 +68,7 @@ Quick start options:
 
 
 ## Documentation
-The documentation for the Black Dashboard PRO React is hosted at our [website](https://demos.creative-tim.com/black-dashboard-pro-react/#/documentation/tutorial).
+The documentation for the Black Dashboard PRO React is hosted at our [website](https://demos.creative-tim.com/nuxt-black-dashboard-pro/documentation).
 
 
 ## File Structure
@@ -84,102 +76,195 @@ The documentation for the Black Dashboard PRO React is hosted at our [website](h
 Within the download you'll find the following directories and files:
 
 ```
-black-dashboad-pro-react
-.
-│
-├── CHANGELOG.md
-├── README.md
-├── package.json
-├── Documentation
-│   └── documentation.html
-├── public
-│   └── index.html
-└── src
-    ├── index.js
-    ├── routes.js
-    ├── logo.svg
-    ├── assets
-    │   ├── css
-    │   ├── demo
-    │   ├── fonts
-    │   ├── img
-    │   └── scss
-    │       ├── black-dashboard-pro-react
-    │       │   ├── bootstrap
-    │       │   │   ├── mixins
-    │       │   │   └── utilities
-    │       │   ├── custom
-    │       │   │   ├── cards
-    │       │   │   ├── mixins
-    │       │   │   ├── utilities
-    │       │   │   └── vendor
-    │       │   └── react
-    │       │       └── plugins
-    │       └── black-dashboard-pro-react.scss
-    ├── components
-    │   ├── CustomUpload
-    │   │   └── ImageUpload.jsx
-    │   ├── FixedPlugin
-    │   │   └── FixedPlugin.jsx
-    │   ├── Footer
-    │   │   └── Footer.jsx
-    │   ├── Navbars
-    │   │   ├── AdminNavbar.jsx
-    │   │   ├── AuthNavbar.jsx
-    │   │   └── RTLNavbar.jsx
-    │   ├── Sidebar
-    │   │   └── Sidebar.jsx
-    │   └── SortingTable
-    │       └── SortingTable.jsx
-    ├── layouts
-    │   ├── Admin
-    │   │   └── Admin.jsx
-    │   ├── Auth
-    │   │   └── Auth.jsx
-    │   └── RTL
-    │       └── RTL.jsx
-    ├── variables
-    │   ├── charts.jsx
-    │   ├── general.jsx
-    │   └── icons.jsx
-    └── views
-        ├── Calendar.jsx
-        ├── Charts.jsx
-        ├── Dashboard.jsx
-        ├── Widgets.jsx
-        ├── components
-        │   ├── Buttons.jsx
-        │   ├── Grid.jsx
-        │   ├── Icons.jsx
-        │   ├── Notifications.jsx
-        │   ├── Panels.jsx
-        │   ├── SweetAlert.jsx
-        │   └── Typography.jsx
-        ├── forms
-        │   ├── ExtendedForms.jsx
-        │   ├── RegularForms.jsx
-        │   ├── ValidationForms.jsx
-        │   ├── Wizard.jsx
-        │   └── WizardSteps
-        │       ├── Step1.jsx
-        │       ├── Step2.jsx
-        │       └── Step3.jsx
-        ├── maps
-        │   ├── FullScreenMap.jsx
-        │   ├── GoogleMaps.jsx
-        │   └── VectorMap.jsx
-        ├── pages
-        │   ├── Lock.jsx
-        │   ├── Login.jsx
-        │   ├── Pricing.jsx
-        │   ├── Register.jsx
-        │   ├── Rtl.jsx
-        │   ├── Timeline.jsx
-        │   └── User.jsx
-        └── tables
-            ├── ExtendedTables.jsx
-            ├── ReactTables.jsx
-            └── RegularTables.jsx
+|-- Nuxt Black Dashboard PRO
+    |-- CHANGELOG.md
+    |-- README.md
+    |-- app.html
+    |-- config.js
+    |-- jsconfig.json
+    |-- nuxt.config.js
+    |-- package.json
+    |-- assets
+    |   |-- README.md
+    |   |-- css
+    |   |   |-- demo.css
+    |   |   |-- nucleo-icons.css
+    |   |-- fonts
+    |   |   |-- nucleo.eot
+    |   |   |-- nucleo.ttf
+    |   |   |-- nucleo.woff
+    |   |   |-- nucleo.woff2
+    |   |-- sass
+    |       |-- black-dashboard-pro.scss
+    |       |-- vendor
+    |           |-- bootstrap-rtl.scss
+    |-- components
+    |   |-- AnimatedNumber.vue
+    |   |-- Badge.vue
+    |   |-- BaseAlert.vue
+    |   |-- BaseButton.vue
+    |   |-- BaseDropdown.vue
+    |   |-- BasePagination.vue
+    |   |-- BaseProgress.vue
+    |   |-- BaseSwitch.vue
+    |   |-- BaseTable.vue
+    |   |-- CloseButton.vue
+    |   |-- ImageUpload.vue
+    |   |-- LoadingPanel.vue
+    |   |-- Modal.vue
+    |   |-- NavbarToggleButton.vue
+    |   |-- README.md
+    |   |-- Slider.vue
+    |   |-- directoryList.md
+    |   |-- index.js
+    |   |-- Breadcrumb
+    |   |   |-- Breadcrumb.vue
+    |   |   |-- BreadcrumbItem.vue
+    |   |   |-- RouteBreadcrumb.vue
+    |   |-- Calendar
+    |   |   |-- Calendar.vue
+    |   |   |-- CalendarHeader.vue
+    |   |-- Cards
+    |   |   |-- Card.vue
+    |   |   |-- StatsCard.vue
+    |   |-- Charts
+    |   |   |-- BarChart.js
+    |   |   |-- LineChart.js
+    |   |   |-- PieChart.js
+    |   |   |-- config.js
+    |   |   |-- utils.js
+    |   |-- Collapse
+    |   |   |-- Collapse.vue
+    |   |   |-- CollapseItem.vue
+    |   |-- Dashboard
+    |   |   |-- CountryMapCard.vue
+    |   |   |-- TaskList.vue
+    |   |   |-- UserTable.vue
+    |   |-- ExtendedTables
+    |   |   |-- ShoppingTable.vue
+    |   |-- Headers
+    |   |   |-- SweetAlertHeader.vue
+    |   |-- Inputs
+    |   |   |-- BaseCheckbox.vue
+    |   |   |-- BaseInput.vue
+    |   |   |-- BaseRadio.vue
+    |   |   |-- IconCheckbox.vue
+    |   |   |-- TagsInput.vue
+    |   |-- Layout
+    |   |   |-- Content.vue
+    |   |   |-- ContentFooter.vue
+    |   |   |-- DashboardLayout.vue
+    |   |   |-- DashboardNavbar.vue
+    |   |   |-- LoadingMainPanel.vue
+    |   |   |-- SidebarFixedToggleButton.vue
+    |   |   |-- SidebarSharePlugin.vue
+    |   |   |-- SidebarToggleButton.vue
+    |   |-- Navbar
+    |   |   |-- BaseNav.vue
+    |   |   |-- NavbarToggleButton.vue
+    |   |-- NotificationPlugin
+    |   |   |-- Notification.vue
+    |   |   |-- Notifications.vue
+    |   |   |-- index.js
+    |   |-- SidebarPlugin
+    |   |   |-- SideBar.vue
+    |   |   |-- SidebarItem.vue
+    |   |   |-- index.js
+    |   |-- Tabs
+    |   |   |-- Tab.vue
+    |   |   |-- Tabs.vue
+    |   |-- Timeline
+    |   |   |-- TimeLine.vue
+    |   |   |-- TimeLineItem.vue
+    |   |-- UserProfile
+    |   |   |-- EditProfileForm.vue
+    |   |   |-- UserCard.vue
+    |   |-- ValidationForms
+    |   |   |-- LoginForm.vue
+    |   |   |-- RangeValidationForm.vue
+    |   |   |-- RegisterForm.vue
+    |   |   |-- TypeValidationForm.vue
+    |   |-- Wizard
+    |   |   |-- FirstStep.vue
+    |   |   |-- SecondStep.vue
+    |   |   |-- ThirdStep.vue
+    |   |   |-- Wizard.vue
+    |   |   |-- WizardTab.vue
+    |   |   |-- throttle.js
+    |   |-- WorldMap
+    |       |-- WorldMap.vue
+    |-- lang
+    |   |-- ar.js
+    |   |-- en.js
+    |-- layouts
+    |   |-- README.md
+    |   |-- auth.vue
+    |   |-- default.vue
+    |-- middleware
+    |   |-- README.md
+    |-- pages
+    |   |-- .DS_Store
+    |   |-- README.md
+    |   |-- calendar.vue
+    |   |-- charts.vue
+    |   |-- index.vue
+    |   |-- lock.vue
+    |   |-- login.vue
+    |   |-- pricing.vue
+    |   |-- register.vue
+    |   |-- widgets.vue
+    |   |-- GeneralViews
+    |   |   |-- NotFoundPage.vue
+    |   |-- components
+    |   |   |-- buttons.vue
+    |   |   |-- grid-system.vue
+    |   |   |-- icons.vue
+    |   |   |-- notifications.vue
+    |   |   |-- panels.vue
+    |   |   |-- sweet-alert.vue
+    |   |   |-- typography.vue
+    |   |-- forms
+    |   |   |-- extended.vue
+    |   |   |-- regular.vue
+    |   |   |-- validation.vue
+    |   |   |-- wizard.vue
+    |   |-- maps
+    |   |   |-- API_KEY.js
+    |   |   |-- full-screen.vue
+    |   |   |-- google.vue
+    |   |   |-- vector-map.vue
+    |   |-- pages
+    |   |   |-- .DS_Store
+    |   |   |-- rtl.vue
+    |   |   |-- timeline.vue
+    |   |   |-- user.vue
+    |   |-- table-list
+    |       |-- extended.vue
+    |       |-- paginated.vue
+    |       |-- regular.vue
+    |       |-- users.js
+    |-- plugins
+    |   |-- README.md
+    |   |-- RTLPlugin.js
+    |   |-- dashboard-plugin.js
+    |   |-- full-calendar.js
+    |   |-- globalComponents.js
+    |   |-- globalDirectives.js
+    |   |-- world-map.js
+    |   |-- directives
+    |   |   |-- click-ouside.js
+    |   |-- extra
+    |       |-- polyfills.js
+    |-- static
+    |   |-- README.md
+    |   |-- favicon.png
+    |   |-- icon.png
+    |   |-- sw.js
+    |   |-- img
+    |-- store
+    |   |-- README.md
+    |-- util
+        |-- throttle.js
 ```
 
 ## Browser Support
@@ -190,12 +275,12 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: https://demos.creative-tim.com/black-dashboard-pro-react/#/admin/dashboard
-- Download Page: https://www.creative-tim.com/product/black-dashboard-pro-react
-- Documentation: https://demos.creative-tim.com/black-dashboard-pro-react/#/documentation/tutorial
+- Demo: https://demos.creative-tim.com/nuxt-black-dashboard-pro
+- Download Page: https://www.creative-tim.com/product/nuxt-black-dashboard-pro
+- Documentation: https://demos.creative-tim.com/nuxt-black-dashboard-pro/documentation
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-black-dashboard-pro-react/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-nuxt-black-dashboard-pro/issues)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Black Dashboard PRO React. Here are some advices for our users that want to report an issue:
