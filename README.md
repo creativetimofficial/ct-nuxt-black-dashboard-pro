@@ -49,7 +49,7 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 | HTML | React | Vue | Nuxt |
 | --- | --- | --- | --- |
-| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/138/original/opt_bdp_thumbnail.jpg)](https://www.creative-tim.com/product/black-dashboard-pro-react) | [![Vue Black Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/135/original/opt_bdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-black-dashboard-pro) | [![Nuxt Black Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/135/original/opt_bdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-black-dashboard=pro) |
+| [![Black Dashboard PRO HTML](https://themes.getbootstrap.com/wp-content/uploads/2018/08/bb_bdp_thumbnail.jpg)](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/) | [![Black Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/138/original/opt_bdp_thumbnail.jpg)](https://www.creative-tim.com/product/black-dashboard-pro-react) | [![Vue Black Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/135/original/opt_bdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-black-dashboard-pro) | [![Nuxt Black Dashboard PRO](https://s3.amazonaws.com/creativetim_bucket/products/135/original/opt_bdp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-black-dashboard-pro) |
 
 ## Demo
 
