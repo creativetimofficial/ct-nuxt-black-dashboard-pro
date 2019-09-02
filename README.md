@@ -55,7 +55,7 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 | Dashboard | User Profile | Tables | Maps | Notification |
 | --- | --- | --- | --- | --- |
-| [![Start page](./github-assets/dashboard-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro) | [![User profile page](./github-assets/user-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/pages/user) | [![Tables page ](./github-assets/table-page.png)](https://demos.creative-tim.com/nuxt-dashboard-pro/table-list/extended) | [![Maps Page](./github-assets/map-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/maps/full-screen) | [![Notification page](./github-assets/notifications-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/components/notifications)
+| [![Start page](./github-assets/dashboard-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro) | [![User profile page](./github-assets/user-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/pages/user) | [![Tables page ](./github-assets/table-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/table-list/extended) | [![Maps Page](./github-assets/map-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/maps/full-screen) | [![Notification page](./github-assets/notifications-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/components/notifications)
 
 [View More](https://demos.creative-tim.com/nuxt-black-dashboard-pro/#/admin/dashboard).
 
