@@ -55,20 +55,20 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 | Dashboard | User Profile | Tables | Maps | Notification |
 | --- | --- | --- | --- | --- |
-| [![Start page](./github-assets/dashboard-page.png)](https://demos.creative-tim.com/black-dashboard-pro-react/#/admin/dashboard) | [![User profile page](./github-assets/user-page.png)](https://demos.creative-tim.com/black-dashboard-pro-react/#/admin/user-profile) | [![Tables page ](./github-assets/table-page.png)](https://demos.creative-tim.com/black-dashboard-pro-react/#/admin/extended-tables) | [![Maps Page](./github-assets/map-page.png)](https://demos.creative-tim.com/black-dashboard-pro-react/#/admin/full-screen-map) | [![Notification page](./github-assets/notifications-page.png)](https://demos.creative-tim.com/black-dashboard-pro-react/#/admin/notifications)
+| [![Start page](./github-assets/dashboard-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro) | [![User profile page](./github-assets/user-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/pages/user) | [![Tables page ](./github-assets/table-page.png)](https://demos.creative-tim.com/nuxt-dashboard-pro/tables/extended) | [![Maps Page](./github-assets/map-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/maps/full-screen) | [![Notification page](./github-assets/notifications-page.png)](https://demos.creative-tim.com/nuxt-black-dashboard-pro/components/notifications)
 
-[View More](https://demos.creative-tim.com/black-dashboard-pro-react/#/admin/dashboard).
+[View More](https://demos.creative-tim.com/nuxt-black-dashboard-pro/#/admin/dashboard).
 
 
 ## Quick start
 
 Quick start options:
 
-- [Buy from Creative Tim](https://www.creative-tim.com/product/black-dashboard-pro-react).
+- [Buy from Creative Tim](https://www.creative-tim.com/product/nuxt-black-dashboard-pro).
 
 
 ## Documentation
-The documentation for the Black Dashboard PRO React is hosted at our [website](https://demos.creative-tim.com/nuxt-black-dashboard-pro/documentation).
+The documentation for the Nuxt Black Dashboard PRO is hosted at our [website](https://demos.creative-tim.com/nuxt-black-dashboard-pro/documentation).
 
 
 ## File Structure
@@ -283,9 +283,9 @@ At present, we officially aim to support the last two versions of the following 
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-nuxt-black-dashboard-pro/issues)
 
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Black Dashboard PRO React. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Nuxt Black Dashboard PRO. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Black Dashboard PRO React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
+1. Make sure that you are using the latest version of the Nuxt Black Dashboard PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
